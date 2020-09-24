@@ -1,0 +1,13 @@
+body {
+
+  text-align: center;
+  background-color: black;
+
+}
+
+#root {
+
+  display: grid;
+  grid-template-columns: 100%;
+  
+}
